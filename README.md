@@ -1,4 +1,4 @@
-About
+What is it ?
 ==============
 
 Horus Emoticons is a JQuery based class to replace emoticons with it's icons, also you can add your own .
@@ -90,3 +90,12 @@ I've collected some icons and used them , the are:
 </script>
 
 ```
+
+***
+
+About
+=======
+
+License MIT License
+Version 1.0
+Author: Mohammed Alashaal <fb.com/alash3al, m7medalash3al.tk>
