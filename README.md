@@ -19,18 +19,21 @@ Usage
 <script type="text/javascript">
         $(document).ready(function(){
             
-                // set the global icons-size width & height
-                HorusEmoticons.size = 22;
-        
-                // add emoticon and it's icon-path
-                // use {'emo':'link', ...}
-                // HorusEmoticons.add({':)':'path/to/smile.png', ':(':'path/to/sad.png'});
-          
-                // there are some basic emoticons by default
-        	he.basic();
-	        
-	        // i'm using jquery selector
-	        $('div').html( he.parse($('div').html()) );
+		// shortcut
+		var he = HorusEmoticons;
+		
+		// set the global icons-size width & height
+		he.size = 22;
+		
+		// add emoticon and it's icon-path
+		// use {'emo':'link', ...}
+		// he.add({':)':'path/to/smile.png', ':(':'path/to/sad.png'});
+		
+		// there are some basic emoticons by default
+		he.basic();
+		
+		// i'm using jquery selector
+		$('div').html( he.parse($('div').html()) );
           
         });
 </script>
