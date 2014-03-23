@@ -33,7 +33,8 @@ Usage
 		he.basic();
 		
 		// i'm using jquery selector
-		$('div').html( he.parse($('div').html()) );
+		var new_html = he.parse( $('div').html() );
+		$('div').html( new_html );
           
         });
 </script>
@@ -49,6 +50,6 @@ Usage
 About
 =======
 
-License MIT License
-Version 2.0
-Author: Mohammed Alashaal <fb.com/alash3al, m7medalash3al.tk>
+License MIT License  
+Version 2.0  
+Author: Mohammed Alashaal <fb.com/alash3al, m7medalash3al.tk>  
