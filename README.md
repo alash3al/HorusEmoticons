@@ -27,7 +27,7 @@ Usage
                 // HorusEmoticons.add({':)':'path/to/smile.png', ':(':'path/to/sad.png'});
           
                 // there are some basic emoticons by default
-	        he.basic();
+        	he.basic();
 	        
 	        // i'm using jquery selector
 	        $('div').html( he.parse($('div').html()) );
