@@ -15,7 +15,7 @@ Usage
 <!-- include those in your html page -->
 
 <script src="//code.jquery.com/jquery-latest.js" type="text/javascript"></script>
-<script src="//raw.githubusercontent.com/alash3al/HorusEmoticons/master/HorusEmoticons.js" type="text/javascript"></script>
+<script src="/path/to/HorusEmoticons.js" type="text/javascript"></script>
 <script type="text/javascript">
         $(document).ready(function(){
             
