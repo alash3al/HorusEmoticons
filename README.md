@@ -52,4 +52,4 @@ About
 
 License MIT License  
 Version 2.0  
-Author: Mohammed Alashaal <fb.com/alash3al, m7medalash3al.tk>  
+Author: Mohammed Alashaal (fb.com/alash3al, m7medalash3al.tk)  
