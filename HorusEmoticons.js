@@ -1,11 +1,10 @@
-
 // HorusEmoticons Javascript Script
 // Version 2.0
 // Author: Mohammed Alashaal <fb.com/alash3al, m7medalash3al.tk>
 // An emoticons javascript class
 var HorusEmoticons = 
 {
-	// empticons will registered here
+    // empticons will registered here
     emoticons : {}
     // global size for emoticons width & height
     ,size: 22
